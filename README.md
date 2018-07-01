@@ -13,7 +13,7 @@ This project provides spatially explicit agent-based models (ABMs) of Dengue Vir
 
 ## **Model Objectives**
 
-This model has been developed to perform Monte Carlo Simulation and sensitivity analysis. By varying four input parameters embedded in the model (i.e., the level of herd immunity, introduction rate, the number of mosquitoes, and mosquito extrinsic incubation period).
+This model has been developed to perform Monte Carlo Simulation and sensitivity analysis. The simulations are executed by varying four input parameters embedded in the model (i.e., the level of herd immunity, introduction rate, the number of mosquitoes, and mosquito extrinsic incubation period).
 
 * The level of herd immunity: the probability of exposure to DENV prior to a start of simulation (high, medium, and low)
 * Introduction rate: the rate of infection from outside (1.0*e-6 - 1.0*e-5)
